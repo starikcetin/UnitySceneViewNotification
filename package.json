@@ -1,0 +1,11 @@
+{
+	"author": "Jonny10 (https://github.com/Jonny10)",
+	"description": "Notification log for Unity's scene view.",
+	"displayName": "Unity Scene View Notification",
+	"license": "MIT",
+	"name": "com.jonny10.unity-scene-view-notification",
+	"version": "0.0.1",
+	"type": "library",
+	"dependencies": {
+	}
+}
